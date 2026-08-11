@@ -1,3 +1,4 @@
-# plaza-cloud - CHANGELOG.md
+# Changelog
 
-Placeholder for CHANGELOG.md.
+## [Unreleased]
+- Initial scaffold
